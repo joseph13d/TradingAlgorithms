@@ -3,8 +3,8 @@
 This repository contains the implementation of the "Reinforcement Learning for Stock Trading" project for the CSCE 689 603 Reinforcement Learning course at the Texas A&M University.
 
 ## Team
-Haard Panchal
-Joseph Cisneros
+* Haard Panchal
+* Joseph Cisneros
 
 ## Implementations
 
